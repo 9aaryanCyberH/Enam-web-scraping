@@ -1,4 +1,4 @@
-# 🌾 ENAM Crop Price Scraper
+# 🌾 eNAAM Crop Price Scraper
 
 This project uses **Puppeteer** to scrape real-time crop prices from the official [eNAM](https://enam.gov.in/web/dashboard/live_price) website and provides an **Express API** to trigger the scraper and fetch the data.
 
@@ -17,5 +17,6 @@ This project uses **Puppeteer** to scrape real-time crop prices from the officia
 
 ```bash
 git clone https://github.com/yourusername/enam-crop-scraper.git
-cd enam-crop-scraper
+cd enaam-crop-scraper
 npm install
+
